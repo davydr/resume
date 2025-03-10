@@ -1,6 +1,6 @@
 ### Download My Resume Here
 
-This repository contains my professional resume for easy access and sharing. [Download Here](./davyd_ramirez_resume.docx)
+This repository contains my professional resume for easy access and sharing. [Download Here](https://github.com/davydr/resume/raw/refs/heads/main/davyd_ramirez_resume.docx)
 
 ## Download
 You can download the latest version of my resume directly from the repository.
