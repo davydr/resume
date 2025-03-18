@@ -1,7 +1,6 @@
-### Download My Resume Here
+### Download Davyd's Resume Here
 
-This repository contains my professional resume for easy access and sharing. [Download Here](https://github.com/davydr/resume/raw/refs/heads/main/davyd_ramirez_resume.docx)
-
+This repository contains Davyd Ramirez' professional resume for easy access and sharing. [Download Here](https://github.com/davydr/resume/raw/refs/heads/main/davyd_ramirez_resume.docx)
 _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 ## Usage
