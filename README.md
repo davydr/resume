@@ -12,4 +12,4 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 For inquiries or professional connections, reach me at:
 - **Email**: davyd.ramirez@gmail.com
 - **LinkedIn**: https://linkedin.com/in/davydr
-- **Meeting**: https://calendly.com/davydr/initial-meeting
+- **Zoom Meeting**: https://calendly.com/davydr/initial-meeting
