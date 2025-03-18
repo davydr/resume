@@ -7,7 +7,7 @@ This repository contains my professional resume for easy access and sharing. [Do
 - Feel free to review my resume for professional opportunities.
 - Recruiters and hiring managers can use this to assess my qualifications.
 
-<p>Last updated: {{ site.time | date: "%B %d, %Y" }}</p>
+_Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 
 ## Contact
