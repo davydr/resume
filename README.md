@@ -12,8 +12,9 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 For inquiries or professional connections, reach me at:
 - **Email**: davyd.ramirez@gmail.com
   <button onclick="copyToClipboard('davyd.ramirez@gmail.com')">[Copy Email]</button>
-- **LinkedIn**: https://linkedin.com/in/davydr
-- **Zoom Meeting**: https://calendly.com/davydr/initial-meeting
+- **LinkedIn:** [https://linkedin.com/in/davydr](https://linkedin.com/in/davydr)  
+  <button onclick="copyToClipboard('https://linkedin.com/in/davydr')">[Copy Linkedin]</button>
+- **Zoom Meeting:** [https://calendly.com/davydr/initial-meeting](https://calendly.com/davydr/initial-meeting)
 
 <script>
   function copyToClipboard(text) {
