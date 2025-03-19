@@ -14,3 +14,13 @@ For inquiries or professional connections, reach me at:
   <button onclick="copyToClipboard('davyd.ramirez@gmail.com')">[Copy]</button>
 - **LinkedIn**: https://linkedin.com/in/davydr
 - **Zoom Meeting**: https://calendly.com/davydr/initial-meeting
+
+<script>
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(() => {
+      alert("Copied: " + text);
+    }).catch(err => {
+      console.error("Failed to copy: ", err);
+    });
+  }
+</script>
