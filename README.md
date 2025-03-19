@@ -9,7 +9,7 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 
 ## Contact
-For inquiries or professional connections, reach me at:
+For inquiries or professional connections, connect with me via:
 - **Email**: davyd.ramirez@gmail.com
   <button onclick="copyToClipboard('davyd.ramirez@gmail.com')">[Copy Email]</button>
 - **LinkedIn:** [https://linkedin.com/in/davydr/](https://linkedin.com/in/davydr/)   <button onclick="copyToClipboard('https://linkedin.com/in/davydr')">[Copy Linkedin]</button>
