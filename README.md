@@ -11,7 +11,7 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 ## Contact
 For inquiries or professional connections, reach me at:
 - **Email**: davyd.ramirez@gmail.com
-  <button onclick="copyToClipboard('davyd.ramirez@gmail.com')">[Copy]</button>
+  <button onclick="copyToClipboard('davyd.ramirez@gmail.com')">[Copy Email]</button>
 - **LinkedIn**: https://linkedin.com/in/davydr
 - **Zoom Meeting**: https://calendly.com/davydr/initial-meeting
 
